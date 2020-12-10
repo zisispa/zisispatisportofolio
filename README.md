@@ -6,11 +6,11 @@ This is a my portfolio.
 
 This project is implemented with the following technologies:
 
--   [HTML - CSS]
--   [JavaScript]
+- [HTML - CSS]
+- [JavaScript]
 
 ## Live
 
-The project is hosted in Heroku cloud platform.
+The project is hosted in Netlify platform.
 
--   [Live](http://sassblog.herokuapp.com/).
+- [Live](https://zisispatis.netlify.app/).

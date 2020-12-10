@@ -767,6 +767,7 @@ section {
 
 .btn-visit:hover {
   background: #0678e3;
+  color: #fff;
 }
 
 .btn-source {
@@ -780,6 +781,7 @@ section {
 
 .btn-source:hover {
   background: #343b20;
+  color: #fff;
 }
 
 .services .icon-box .icon {
@@ -1120,6 +1122,7 @@ section {
 
 .send-link:hover {
   background: #0678e3;
+  color: #fff;
 }
 
 @-webkit-keyframes animate-loading {
