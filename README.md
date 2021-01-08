@@ -1,3 +1,5 @@
+![alt text](https://github.com/zisispa/zisispatisportofolio/blob/master/portfolio-zisis.PNG?raw=true)
+
 ## About this Project
 
 This is a my portfolio.
